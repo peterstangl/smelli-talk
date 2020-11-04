@@ -1,0 +1,9 @@
+numpy
+scipy>=1.0
+smelli>=2.1
+flavio
+matplotlib>=2.1
+nose
+RISE
+emcee
+iminuit
