@@ -1,4 +1,6 @@
 #!/bin/bash
 jupyter-nbextension install rise --py --user
 jupyter-nbextension enable rise  --py --user 
- 
+jupyter contrib nbextension install --user
+jupyter nbextension enable load_tex_macros/main
+

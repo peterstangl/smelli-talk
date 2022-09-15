@@ -7,3 +7,4 @@ nose
 RISE
 emcee
 iminuit
+jupyter_contrib_nbextensions
